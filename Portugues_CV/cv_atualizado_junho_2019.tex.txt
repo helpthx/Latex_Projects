@@ -1,0 +1,279 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plasmati Graduate CV
+% LaTeX Template
+% Version 1.0 (24/3/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Alessandro Plasmati (alessandro.plasmati@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template needs to be compiled with XeLaTeX.
+% The main document font is called Fontin and can be downloaded for free
+% from here: http://www.exljbris.com/fontin.html
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper,10pt]{article} % Default font size and paper size
+\usepackage{fontspec} % For loading fonts
+\setmainfont{[Fontin-Regular.otf]}
+\defaultfontfeatures{Mapping=tex-text}
+% \setmainfont{[Fontin-Regular.otf]} % Main document font
+% \setmainfont[SmallCapsFont = Fontin-SmallCaps.otf]{[Fontin-Regular.otf]} % Main document font
+\setmainfont{Fontin-Regular.otf}[
+BoldFont       = Fontin-Bold.otf ,
+ItalicFont     = Fontin-Italic.otf ,
+SmallCapsFont  = Fontin-SmallCaps.otf ]
+
+
+\usepackage{xunicode,xltxtra,url,parskip} % Formatting packages
+
+\usepackage[usenames,dvipsnames]{xcolor} % Required for specifying custom colors
+
+\usepackage[big]{layaureo} % Margin formatting of the A4 page, an alternative to layaureo can be \usepackage{fullpage}
+% To reduce the height of the top margin uncomment: \addtolength{\voffset}{-1.3cm}
+
+\usepackage{hyperref} % Required for adding links	and customizing them
+\definecolor{linkcolour}{rgb}{0,0.2,0.6} % Link color
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour} % Set link colors throughout the document
+
+\usepackage{titlesec} % Used to customize the \section command
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule] % Text formatting of sections
+\titlespacing{\section}{0pt}{3pt}{3pt} % Spacing around sections
+
+\begin{document}
+
+\pagestyle{empty} % Removes page numbering
+
+\font\fb=''[cmr10]'' % Change the font of the \LaTeX command under the skills section
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+%\par{\centering{\Huge João Vitor \textsc{Rodrigues Baptista}}\bigskip\par} % Your name
+
+\section{Dados Pessoais}
+
+\begin{tabular}{rl}
+\textsc{Nome completo:} & João Vitor Rodrigues Baptista \\
+\textsc{Lugar e Data de nascimento:} & Brasil  | 15 Agosto 1996 \\
+\textsc{Endereço:} & Residencial Paraiso, Conjunto C Casa 14. Gama-DF, Brasil \\
+\textsc{Telefone:} & +55 (61) 98334 2256\\
+\textsc{email:} & \href{mailto:Jvrbaptista@live.com}{Jvrbaptista@live.com} \\
+\textsc{Midias:} & \href{https://github.com/helpthx}{GitHub}
+\textsc{\href{https://www.linkedin.com/in/jo\%C3\%A3o-vitor-rodrigues-baptista-4a3546149/}{Linkedin}}
+\textsc{\href{https://www.youracclaim.com/users/joao-vitor-baptista/badges}{Cclain}}
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	Experiências Profissionais 
+%----------------------------------------------------------------------------------------
+\section{Experiências Profissionais}
+\textsc{Mar} 2019 -\textsc{Atualmente}& \textsc{- Pesquisador Junior}\\
+\normalsize\textbf{Polícia Civil do Distrito Federal}, Brasília-DF\\
+& \small\emph{Pesquisa relacionada a desenvolver metodologias para a predição da velocidade do veiculo baseado na distância de projeção do pedestre. Desenvolvimento de um portal para facilitar a elaboração de laudos periciais usando django. Desenvolvimento de planilhas para resumir metodologias existentes. 12h de dedicação}\\ 
+&
+
+\textsc{Fev} 2019 -\textsc{Atualmente}& \textsc{- Desenvolvedor estágiario}\\
+\normalsize\textbf{QUBO TECNOLOGIA E SISTEMAS}, Brasília-DF\\
+& \small\emph{Desenvolvendo micro-serviços em rest djando, atuando principalmente no back-end para diversas aplicações como sistema de colaboradores e a plataforma desafio de dados. Documentação de scripts de big data. Fazendo extração de dados de apis para base de dados no-sql }\\ 
+&
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Formação}
+
+\begin{tabular}{rl}	
+
+%------------------------------------------------
+
+\textsc{Mar} 2015-\textsc{jul} 2020& Graduando em \textsc{}\textsc{Engenharia Eletrônica}\\
+& \normalsize\textbf{Universidade de Brasilia}, Brasília-DF\\
+& \small\emph{Ênfases : Sistemas Embarcados, Engenharia de Software, Processamentos de Sinais e IA},&\\
+
+%------------------------------------------------
+
+\textsc{Mar} 2007-\textsc{Dez} 2014&\textsc{}\textsc{Curso de Inglês}\\
+& \normalsize\textbf{Centro interescolar de línguas da Ceilândia}, Ceilândia-DF\\
+&\\
+
+%------------------------------------------------
+
+\textsc{Verão} 2014 & Programa de Intercâmbio \textsc{}\textsc{\href{https://summer.gwu.edu/brasilia-without-borders}{Brasilia sem Fronterias}}\\
+& \small\emph{Liderança global com ênfase em inovação}, \normalsize\textbf{George Washington University}\\
+&\\
+
+%------------------------------------------------
+\end{tabular}
+
+
+% %----------------------------------------------------------------------------------------
+% %	SCHOLARSHIPS AND ADDITIONAL INFO
+% %----------------------------------------------------------------------------------------
+
+% \section{Scholarships and Certificates}
+
+% \begin{tabular}{rl}
+% \textsc{Sept.} 2012 & Faculty of Science Masters Scholarship \footnotesize(\$30,000)\normalsize\\
+
+% \setmainfont{[Fontin-SmallCaps.otf]}
+% \textsc{June} 2010 & {\textsc{Gmat}\textregistered}\setmainfont[SmallCapsFont= Fontin-SmallCaps.otf]{Fontin-Regular.otf}: 730 (\textsc{q:50;v:39}) 96\textsuperscript{th} percentile; \textsc{awa}: 6.0/6.0 (89\textsuperscript{th} percentile)
+% \end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES
+%----------------------------------------------------------------------------------------
+
+\section{Idiomas}
+
+\begin{tabular}{rl}
+\textsc{Inglês:} & Fluente \\
+%Reference: \href{mailto:pavo.cameo@gmail.com\}{Anastasia Pavo}, English instructor at \href{http://www.languagecourse.net/school-proba-educational-centre-st--petersburg.php3}{ProBa School}\\
+
+\textsc{Portugues:} & Nativo\\
+
+\textsc{Espanhol:} &  Básico\\
+
+\end{tabular}
+
+% %----------------------------------------------------------------------------------------
+% %	COMPUTER SKILLS 
+% %----------------------------------------------------------------------------------------
+
+\section{Informática}
+
+\begin{tabular}{rl}
+ Básico: & \textsc{Java}, \textsc{Javascript}, \textsc{Node-js}, \textsc{React}. \setmainfont[SmallCapsFont=Fontin-SmallCaps.otf]{Fontin-Regular.otf}\\
+Intermediário: &  \textsc{MATLAB}, \textsc{Desenvolvimento Web}, Flask, \textsc{OOP}, Bancos: SQL e No-SQL, Data science, Big Data.\\
+Avançado: &\textsc{Pacote Office}, Internet, C, \textsc{C++} Python, Rest Django\\
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS AND ACTIVITIES
+%----------------------------------------------------------------------------------------
+
+\section{Interesses e Atividades pertinentes a vaga}
+\begin{tabular}{rl}
+
+\textsc{1º Semestre de} 2018 & \textsc{\href{https://github.com/helpthx/Microcontroladores}{Sistema de controle de acesso por RFID}} \\
+& \textsc{Microprocessadores e Microcontroladores: }\textsc{Usando C/C++}\\
+& \small\emph{}\normalsize\textbf{Universidade de Brasilia}\\
+&\\
+
+\textsc{2º Semestre de} 2018 & \textsc{\href{https://github.com/helpthx/Sistemas_Embarcados}{Projeto Cyber Gate de reconhecimento facial}} \\
+& \textsc{Sistemas Embarcados: }\textsc{Usando opencv em Python e C}\\
+& \small\emph{}\normalsize\textbf{Universidade de Brasilia}\\
+&\\
+
+\textsc{Verão de} 2019 & \textsc{\href{https://github.com/helpthx/Visao_Computacional}{Visão Computacional}}\\
+& \textsc{Detecção e Reconhecimento Facial em vídeo Real-Time usando LBPH: }\textsc{Usando Python}\\
+& \small\emph{}\normalsize\textbf{Universidade de Brasilia}\\
+&\\
+
+\textsc{Janeiro de} 2019 & \textsc{\href{https://github.com/helpthx/Data_Science/tree/master/EdX/GTx:\%20CSE6040x:\%20FA18\%20-\%20Computing\%20for\%20Data\%20Analysis}{GTx: CSE6040x: FA18 - Computing for Data Analysisl}}\\
+& \textsc{}\textsc{Usando Python(numpy, pandas, sqlite, seaborn matplotlib e bokeh}\\
+& \small\emph{}\normalsize\textbf{EdX}\\
+&\\
+
+\textsc{Fevereiro de} 2019 & \textsc{\href{https://github.com/helpthx/Data_Science/tree/master/EdX/Harvard\%20University:\%20Professional\%20Certificate\%20in\%20Data\%20Science}{Harvard University: Professional Certificate in Data Science}}\\
+& \textsc{}\textsc{Usandondo R (ggplot2 , dplyr e Gapminder)}\\
+& \small\emph{}\normalsize\textbf{EdX e DataCamp}\\
+&\\
+
+\textsc{Abril de} 2019 & \textsc{\href{https://github.com/helpthx/Big_Data}{Hadoop: Administration, Data Acess, Fundamentals e Programming}}\\
+& \textsc{}\textsc{Administration: Flume, Solr, Oozie, Spoop e Zookeeper}\\
+& \textsc{}\textsc{Data Acess: HDFS: Hbase, Hive e SQL}\\
+& \textsc{}\textsc{Fundamentals: Spark e Ecossistema Apache geral}\\
+& \textsc{}\textsc{Programming: Conceitos de MapReduce, Pig e Kafka.}\\
+& \small\emph{}\normalsize\textbf{Cognitive Class.ia IBM}\\
+&\\
+
+\textsc{Maio de} 2019 & \textsc{\href{https://github.com/helpthx/Data_Science/tree/master/Cognitive_Class_IBM/Applied_Data_Science_with_Python}{Applied Data Science with Python}}\\
+& \textsc{}\textsc{Usando Python (Numpy, Matplotlib, scikit-learn and bokeh)}\\
+& \small\emph{}\normalsize\textbf{Cognitive Class.ia IBM}\\
+&\\
+
+\textsc{Junho de} 2019 & \textsc{\href{https://github.com/helpthx/Data_Science/tree/master/Cognitive_Class_IBM/Deep_Learning}{Deep Learning}}\\
+& \textsc{}\textsc{Usando Python (Tensorflow e aceleração usando GPU)}\\
+& \small\emph{}\normalsize\textbf{Cognitive Class.ia IBM}\\
+&\\
+
+\end{tabular}
+
+
+Engenharia Eletrônica, Sistemas Embarcados, Desenvolvimento com Microcontroladores, TI, IoT.\\
+Data Science, Inteligencia Artifical, Big Data, Apache Ecossistema, Back-End \\
+Engenharia Aplicada a desenvolvimento em geral, Engenharia de dados.
+%----------------------------------------------------------------------------------------
+
+% \newpage
+
+% %----------------------------------------------------------------------------------------
+% %	GRADE TABLES
+% %----------------------------------------------------------------------------------------
+
+% \par{\centering\Large \hypertarget{grds}{Master of Science in \textsc{Finance}}\par}\large{\centering Grades\par}\normalsize
+
+% \begin{center}
+% \begin{tabular}{lcc}
+% \multicolumn{1}{c}{\textsc{Exam}} & \textsc{Grade}&\textsc{Credit Hrs}\\ \hline
+% Corporate Finance (Valuation) & 25 & 6\\
+% Financial Statement Analysis & 28 & 6\\
+% Statistics & 27 & 6\\
+% Theory of Finance & 26 & 6\\
+% Quantitative Methods for Finance & 30 & 6\\
+% Econometrics & 24 & 6\\
+% Derivatives & 31 & 6\\
+% Management of Financial and Insurance Companies & 30 & 6\\
+% Business Law & 31 & 6\\
+% Investment Banking	& 28 & 6\\ \\		
+% Behavioral Models for Economics and Finance	 & 29 & 6\\
+% Numerical Methods for Finance & 29 & 6\\
+% Advanced Derivatives & 30 & 6\\
+% Fixed Income (Advanced Methods) & 30 & 6\\ \\
+% English Language & 30 &	4\\
+% French Language & 31 &	4\\	
+% Internship & & 8\\		
+% Final Thesis & & 20\\	
+% & Total & 120\\\cline{2-3}
+% &\textsc{Gpa}&\textbf{8.0}
+% \end{tabular}
+% \end{center}
+% \bigskip
+% \hrule
+% \bigskip
+
+% %------------------------------------------------
+
+% \bigskip
+
+% \par{\centering\Large \hypertarget{grds_usc}{Exchange Program at \textsc{usc}, Los Angeles}\par}\large{\centering Grades\par}\normalsize
+
+% \begin{center}
+% \begin{tabular}{lcc}
+% \multicolumn{1}{c}{\textsc{Exam}} & \textsc{Grade} & \textsc{Grade Points}\\ 
+% \hline
+% Corporate Financial Strategy & A & 4\\
+% Derivatives & A & 4\\
+% Money, Credit, and Banking & A & 4\\
+% Business Strategy & A- & 3.5\\
+% & &\\\cline{2-3}
+% & \textsc{Gpa} & \textbf{3.875}
+% \end{tabular}
+% \end{center}
+
+% %----------------------------------------------------------------------------------------
+
+\end{document}
