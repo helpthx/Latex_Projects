@@ -60,59 +60,59 @@ SmallCapsFont  = Fontin-SmallCaps.otf ]
 %	NAME AND CONTACT INFORMATION
 %----------------------------------------------------------------------------------------
 
-%\par{\centering{\Huge João Vitor \textsc{Rodrigues Baptista}}\bigskip\par} % Your name
-
+%\par{\centering{\Huge JoÃ£o Vitor \textsc{Rodrigues Baptista}}\bigskip\par} % Your name
 \section{Dados Pessoais}
 
 \begin{tabular}{rl}
-\textsc{Nome completo:} & João Vitor Rodrigues Baptista \\
+\textsc{Nome completo:} & JoÃ£o Vitor Rodrigues Baptista \\
 \textsc{Lugar e Data de nascimento:} & Brasil  | 15 Agosto 1996 \\
-\textsc{Endereço:} & Residencial Paraiso, Conjunto C Casa 14. Gama-DF, Brasil \\
+\textsc{EndereÃ§o:} & Residencial Paraiso, Conjunto C Casa 14. Gama-DF, Brasil \\
 \textsc{Telefone:} & +55 (61) 98334 2256\\
 \textsc{email:} & \href{mailto:Jvrbaptista@live.com}{Jvrbaptista@live.com} \\
 \textsc{Midias:} & \href{https://github.com/helpthx}{GitHub}
 \textsc{\href{https://www.linkedin.com/in/jo\%C3\%A3o-vitor-rodrigues-baptista-4a3546149/}{Linkedin}}
-\textsc{\href{https://www.youracclaim.com/users/joao-vitor-baptista/badges}{Cclain}}
+\textsc{\href{https://www.youracclaim.com/users/joao-vitor-baptista/badges}{Cclaim}}
 \end{tabular}
 
 %----------------------------------------------------------------------------------------
-%	Experiências Profissionais 
+%	ExperiÃªncias Profissionais 
 %----------------------------------------------------------------------------------------
-\section{Experiências Profissionais}
-\textsc{Mar} 2019 -\textsc{Atualmente}& \textsc{- Pesquisador Junior}\\
-\normalsize\textbf{Polícia Civil do Distrito Federal}, Brasília-DF\\
-& \small\emph{Pesquisa relacionada a desenvolver metodologias para a predição da velocidade do veiculo baseado na distância de projeção do pedestre. Desenvolvimento de um portal para facilitar a elaboração de laudos periciais usando django. Desenvolvimento de planilhas para resumir metodologias existentes. 12h de dedicação}\\ 
+\section{ExperiÃªncias Profissionais}
+\textsc{Fev} 2019 -\textsc{ Atualmente}& \textsc{- Desenvolvedor estÃ¡giario}\\
+\normalsize\textbf{QUBO TECNOLOGIA E SISTEMAS}, BrasÃ­lia-DF\\
+& \small\emph{Desenvolvendo micro-serviÃ§os em rest djando, atuando principalmente no back-end para diversas aplicaÃ§Ãµes como sistema de colaboradores e a plataforma desafio de dados. DocumentaÃ§Ã£o de scripts de Big data. Fazendo extraÃ§Ã£o de dados de apis para base de dados no-sql. Proncipais tecnologias: Python, Django, PostgreSQL, MongoDB, Nginx, Gunicorn, Docker and Git }\\ 
 &
 
-\textsc{Fev} 2019 -\textsc{Atualmente}& \textsc{- Desenvolvedor estágiario}\\
-\normalsize\textbf{QUBO TECNOLOGIA E SISTEMAS}, Brasília-DF\\
-& \small\emph{Desenvolvendo micro-serviços em rest djando, atuando principalmente no back-end para diversas aplicações como sistema de colaboradores e a plataforma desafio de dados. Documentação de scripts de big data. Fazendo extração de dados de apis para base de dados no-sql }\\ 
+\textsc{Mar} 2019 -\textsc{ Ago} 2019& \textsc{- Pesquisador Junior}\\
+\normalsize\textbf{PolÃ­cia Civil do Distrito Federal}, BrasÃ­lia-DF\\
+& \small\emph{Pesquisa relacionada a desenvolver metodologias para a prediÃ§Ã£o da velocidade do veiculo baseado na distÃ¢ncia de projeÃ§Ã£o do pedestre. Desenvolvimento de um portal para facilitar a elaboraÃ§Ã£o de laudos periciais usando django. Desenvolvimento de planilhas para resumir metodologias existentes.}\\ 
 &
 
 %----------------------------------------------------------------------------------------
 %	EDUCATION
 %----------------------------------------------------------------------------------------
 
-\section{Formação}
+\section{FormaÃ§Ã£o}
 
 \begin{tabular}{rl}	
 
 %------------------------------------------------
 
-\textsc{Mar} 2015-\textsc{jul} 2020& Graduando em \textsc{}\textsc{Engenharia Eletrônica}\\
-& \normalsize\textbf{Universidade de Brasilia}, Brasília-DF\\
-& \small\emph{Ênfases : Sistemas Embarcados, Engenharia de Software, Processamentos de Sinais e IA},&\\
+\textsc{Mar} 2015-\textsc{jul} 2020& Graduando em \textsc{}\textsc{Engenharia EletrÃ´nica}\\
+& \normalsize\textbf{Universidade de Brasilia}, BrasÃ­lia-DF\\
+& \small\emph{ÃŠnfases : Sistemas Embarcados, Engenharia de Software, Processamentos digital de imagens e Sinais e IA.}&\\
+& \small\emph{TCC1: AplicaÃ§Ã£o de tÃ©cnicas de XIA em redes neurais convolucionais na classificaÃ§Ã£o de lesÃµes de pele.}&\\
 
 %------------------------------------------------
 
-\textsc{Mar} 2007-\textsc{Dez} 2014&\textsc{}\textsc{Curso de Inglês}\\
-& \normalsize\textbf{Centro interescolar de línguas da Ceilândia}, Ceilândia-DF\\
+\textsc{Mar} 2007-\textsc{Dez} 2014&\textsc{}\textsc{Curso de InglÃªs}\\
+& \normalsize\textbf{Centro interescolar de lÃ­nguas da CeilÃ¢ndia}, CeilÃ¢ndia-DF\\
 &\\
 
 %------------------------------------------------
 
-\textsc{Verão} 2014 & Programa de Intercâmbio \textsc{}\textsc{\href{https://summer.gwu.edu/brasilia-without-borders}{Brasilia sem Fronterias}}\\
-& \small\emph{Liderança global com ênfase em inovação}, \normalsize\textbf{George Washington University}\\
+\textsc{Jun - Ago} 2014 & Programa de IntercÃ¢mbio \textsc{}\textsc{\href{https://summer.gwu.edu/brasilia-without-borders}{Brasilia sem Fronterias}}\\
+& \small\emph{LideranÃ§a global com Ãªnfase em inovaÃ§Ã£o}, \normalsize\textbf{George Washington University}\\
 &\\
 
 %------------------------------------------------
@@ -139,12 +139,12 @@ SmallCapsFont  = Fontin-SmallCaps.otf ]
 \section{Idiomas}
 
 \begin{tabular}{rl}
-\textsc{Inglês:} & Fluente \\
+\textsc{InglÃªs:} & Fluente \\
 %Reference: \href{mailto:pavo.cameo@gmail.com\}{Anastasia Pavo}, English instructor at \href{http://www.languagecourse.net/school-proba-educational-centre-st--petersburg.php3}{ProBa School}\\
 
 \textsc{Portugues:} & Nativo\\
 
-\textsc{Espanhol:} &  Básico\\
+\textsc{Espanhol:} &  BÃ¡sico\\
 
 \end{tabular}
 
@@ -152,33 +152,33 @@ SmallCapsFont  = Fontin-SmallCaps.otf ]
 % %	COMPUTER SKILLS 
 % %----------------------------------------------------------------------------------------
 
-\section{Informática}
+\section{InformÃ¡tica}
 
 \begin{tabular}{rl}
- Básico: & \textsc{Java}, \textsc{Javascript}, \textsc{Node-js}, \textsc{React}. \setmainfont[SmallCapsFont=Fontin-SmallCaps.otf]{Fontin-Regular.otf}\\
-Intermediário: &  \textsc{MATLAB}, \textsc{Desenvolvimento Web}, Flask, \textsc{OOP}, Bancos: SQL e No-SQL, Data science, Big Data.\\
-Avançado: &\textsc{Pacote Office}, Internet, C, \textsc{C++} Python, Rest Django\\
+ BÃ¡sico: & \textsc{Java}, \textsc{Javascript}, \textsc{Node-js}, \textsc{React}. \setmainfont[SmallCapsFont=Fontin-SmallCaps.otf]{Fontin-Regular.otf}\\
+IntermediÃ¡rio: &  \textsc{MATLAB}, \textsc{Desenvolvimento Web}, Flask, \textsc{OOP}, Bancos: SQL e No-SQL, Data science, Big Data.\\  & \textsc{Docker, Nginx, Redes.}\\
+AvanÃ§ado: &\textsc{Pacote Office}, Internet, C, \textsc{C++} Python, Rest Django\\
 \end{tabular}
 
 %----------------------------------------------------------------------------------------
 %	INTERESTS AND ACTIVITIES
 %----------------------------------------------------------------------------------------
 
-\section{Interesses e Atividades pertinentes a vaga}
+\section{Interesses e Atividades extracurriculare}
 \begin{tabular}{rl}
 
-\textsc{1º Semestre de} 2018 & \textsc{\href{https://github.com/helpthx/Microcontroladores}{Sistema de controle de acesso por RFID}} \\
+\textsc{1Âº Semestre de} 2018 & \textsc{\href{https://github.com/helpthx/Microcontroladores}{Sistema de controle de acesso por RFID}} \\
 & \textsc{Microprocessadores e Microcontroladores: }\textsc{Usando C/C++}\\
 & \small\emph{}\normalsize\textbf{Universidade de Brasilia}\\
 &\\
 
-\textsc{2º Semestre de} 2018 & \textsc{\href{https://github.com/helpthx/Sistemas_Embarcados}{Projeto Cyber Gate de reconhecimento facial}} \\
+\textsc{2Âº Semestre de} 2018 & \textsc{\href{https://github.com/helpthx/Sistemas_Embarcados}{Projeto Cyber Gate de reconhecimento facial}} \\
 & \textsc{Sistemas Embarcados: }\textsc{Usando opencv em Python e C}\\
 & \small\emph{}\normalsize\textbf{Universidade de Brasilia}\\
 &\\
 
-\textsc{Verão de} 2019 & \textsc{\href{https://github.com/helpthx/Visao_Computacional}{Visão Computacional}}\\
-& \textsc{Detecção e Reconhecimento Facial em vídeo Real-Time usando LBPH: }\textsc{Usando Python}\\
+\textsc{Janeiro de} 2019 & \textsc{\href{https://github.com/helpthx/Visao_Computacional}{VisÃ£o Computacional}}\\
+& \textsc{DetecÃ§Ã£o e Reconhecimento Facial em vÃ­deo Real-Time usando LBPH: }\textsc{Usando Python}\\
 & \small\emph{}\normalsize\textbf{Universidade de Brasilia}\\
 &\\
 
@@ -187,33 +187,71 @@ Avançado: &\textsc{Pacote Office}, Internet, C, \textsc{C++} Python, Rest Django
 & \small\emph{}\normalsize\textbf{EdX}\\
 &\\
 
+\textsc{Janeiro de} 2019 & \textsc{\href{https://github.com/helpthx/Artificial_Intelligence/blob/master/Escola_Virtual_Funda\%C3\%A7\%C3\%A3o_Bradesco/Implementando\%20banco\%20de\%20dados/Certificado_de_conclus\%C3\%A3o.pdf}{Implementando bancos de dados - 15h}}\\
+& \textsc{}\textsc{Usando Microsoft SQL Server}\\
+& \small\emph{}\normalsize\textbf{Bradesco Escola Virtual}\\
+&\\
+
+\textsc{Janeiro de} 2019 & \textsc{\href{https://github.com/helpthx/Artificial_Intelligence/blob/master/Escola_Virtual_Funda\%C3\%A7\%C3\%A3o_Bradesco/Modelagem\%20de\%20dados/Certificado_de_conclus\%C3\%A3o.pdf}{Modelagem de dados - 12h}}\\
+& \textsc{}\textsc{Usando Microsoft SQL Server}\\
+& \small\emph{}\normalsize\textbf{Bradesco Escola Virtual}\\
+&\\
+
 \textsc{Fevereiro de} 2019 & \textsc{\href{https://github.com/helpthx/Data_Science/tree/master/EdX/Harvard\%20University:\%20Professional\%20Certificate\%20in\%20Data\%20Science}{Harvard University: Professional Certificate in Data Science}}\\
 & \textsc{}\textsc{Usandondo R (ggplot2 , dplyr e Gapminder)}\\
 & \small\emph{}\normalsize\textbf{EdX e DataCamp}\\
 &\\
 
-\textsc{Abril de} 2019 & \textsc{\href{https://github.com/helpthx/Big_Data}{Hadoop: Administration, Data Acess, Fundamentals e Programming}}\\
-& \textsc{}\textsc{Administration: Flume, Solr, Oozie, Spoop e Zookeeper}\\
-& \textsc{}\textsc{Data Acess: HDFS: Hbase, Hive e SQL}\\
-& \textsc{}\textsc{Fundamentals: Spark e Ecossistema Apache geral}\\
-& \textsc{}\textsc{Programming: Conceitos de MapReduce, Pig e Kafka.}\\
-& \small\emph{}\normalsize\textbf{Cognitive Class.ia IBM}\\
+\textsc{Abril de 2019} & \textsc{\href{https://github.com/helpthx/Big_Data}{Hadoop: Administration, Data Acess, Fundamentals e Programming}}\\
+& \textsc{}\textsc{\href{https://www.youracclaim.com/badges/cb09310f-7459-4d1d-a27a-38026f771814}{Hadoop Administration}: Flume, Solr, Oozie, Spoop e Zookeeper}\\
+& \textsc{}\textsc{\href{https://www.youracclaim.com/badges/7b2a7c13-13c9-4523-a340-2ca7bf7fe377}{Hadoop Data Access}: HDFS, Hbase, Hive e SQL}\\  
+& \textsc{}\textsc{\href{https://www.youracclaim.com/badges/8d12a31c-aeb1-45de-8e56-19b9450f299c}{Big Data Foundations}: Spark e Ecossistema Apache geral}\\
+& \textsc{}\textsc{\href{https://www.youracclaim.com/badges/b3ad5d8c-706b-4415-b23a-8ba700fdabd0}{Hadoop Programming}: Conceitos de MapReduce, Pig e Kafka.}\\
+& \small\emph{}\normalsize\textbf{Cognitive Class.ai IBM}\\
 &\\
 
 \textsc{Maio de} 2019 & \textsc{\href{https://github.com/helpthx/Data_Science/tree/master/Cognitive_Class_IBM/Applied_Data_Science_with_Python}{Applied Data Science with Python}}\\
 & \textsc{}\textsc{Usando Python (Numpy, Matplotlib, scikit-learn and bokeh)}\\
-& \small\emph{}\normalsize\textbf{Cognitive Class.ia IBM}\\
+& \small\emph{}\normalsize\textbf{Cognitive Class.ai IBM}\\
+&\\
+
+\textsc{Maio de} 2019 & \textsc{\href{https://www.youracclaim.com/badges/940a59a9-2db4-46f2-ae12-97272c4eedf6}{Docker Essentials: A Developer Introduction}}\\
+& \textsc{}\textsc{Usando Docker e Docker Compose)}\\
+& \small\emph{}\normalsize\textbf{Cognitive Class.ai IBM}\\
 &\\
 
 \textsc{Junho de} 2019 & \textsc{\href{https://github.com/helpthx/Data_Science/tree/master/Cognitive_Class_IBM/Deep_Learning}{Deep Learning}}\\
-& \textsc{}\textsc{Usando Python (Tensorflow e aceleração usando GPU)}\\
-& \small\emph{}\normalsize\textbf{Cognitive Class.ia IBM}\\
+& \textsc{}\textsc{Usando Python (Tensorflow e aceleraÃ§Ã£o usando GPU)}\\
+& \small\emph{}\normalsize\textbf{Cognitive Class.ai IBM}\\
+&\\
+
+\textsc{Junho de} 2019 & \textsc{\href{https://github.com/helpthx/Hackathon-stefanini/blob/master/Jo\%C3\%A3o\%20Vitor.pdf}{Treinamento do Hackathon de InteligÃªncia Artificial e Big data da Stefanini}}\\
+& \textsc{}\textsc{Usando Python (keras, Tensorflow, Neo4j, Redis, Spark, Hadoop)}\\
+& \small\emph{}\normalsize\textbf{Stefanini}\\
+&\\
+
+\textsc{Junho de} 2019 & \textsc{\href{https://www.coursera.org/account/accomplishments/specialization/TWK4HP9XP3W3}{Data Engineering, Big Data, and Machine Learning on GCP specialization}}\\
+& \textsc{}\textsc{Google Cloud Platform Big Data and Machine Learning Fundamentals}\\
+& \textsc{}\textsc{Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform}\\
+& \textsc{}\textsc{Serverless Data Analysis with Google BigQuery and Cloud Dataflow}\\
+& \textsc{}\textsc{Serverless Machine Learning with Tensorflow on Google Cloud Platform}\\
+& \textsc{}\textsc{Building Resilient Streaming Systems on Google Cloud Platform}\\
+& \small\emph{}\normalsize\textbf{Data Engineering on Google Cloud Platform on Coursera}\\
+&\\
+
+\textsc{Agosto de} 2019 & \textsc{\href{https://www.coursera.org/account/accomplishments/specialization/UGM94YP3V8C8}{Machine Learning with TensorFlow on Google Cloud Platform specialization}}\\
+& \textsc{}\textsc{How Google does Machine Learning}\\
+& \textsc{}\textsc{Launching into Machine Learning}\\
+& \textsc{}\textsc{Intro to TensorFlow}\\
+& \textsc{}\textsc{Feature Engineering}\\
+& \textsc{}\textsc{Art and Science of Machine Learning}\\
+& \small\emph{}\normalsize\textbf{Learn ML with Google Cloud on Google on Coursera}\\
 &\\
 
 \end{tabular}
 
 
-Engenharia Eletrônica, Sistemas Embarcados, Desenvolvimento com Microcontroladores, TI, IoT.\\
+Engenharia EletrÃ´nica, Sistemas Embarcados, Desenvolvimento com Microcontroladores, TI, IoT.\\
 Data Science, Inteligencia Artifical, Big Data, Apache Ecossistema, Back-End \\
 Engenharia Aplicada a desenvolvimento em geral, Engenharia de dados.
 %----------------------------------------------------------------------------------------
